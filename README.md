@@ -79,8 +79,8 @@ literary-mapping-gazetteers/
 ├── gazetteers/
 │   └── sign_of_the_four/
 │       ├── README.md
-│       ├── gazetteer.xlsx
-│       └── gazetteer.csv
+│       ├── The Sign of the Four_Gazetteer_Chs.1-9.xls
+│       └── The Sign of the Four_Gazetteer_Chs.1-9.csv
 │
 ├── methodology/
 │   ├── gazetteer_design.md
