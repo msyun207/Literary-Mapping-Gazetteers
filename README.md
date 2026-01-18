@@ -32,7 +32,7 @@ methodological foundation.
 ## Core Case Study: *The Sign of the Four* (1890)
 
 The first completed gazetteer in this repository is based on  
-*Arthur Conan Doyle’s The Sign of the Four*.
+Arthur Conan Doyle’s *The Sign of the Four*.
 
 This case study demonstrates how digital mapping can illuminate:
 
