@@ -1,7 +1,7 @@
 # Gazetteer: *The Sign of the Four* (1890)
 
 This folder contains the **literary gazetteer data and documentation** for  
-*Arthur Conan Doyle’s* **The Sign of the Four** (1890).
+Arthur Conan Doyle’s **The Sign of the Four** (1890).
 
 The gazetteer was created as part of the *Literary Mapping Gazetteers* project and
 serves as a **case study** demonstrating how gazetteer-based digital mapping can
