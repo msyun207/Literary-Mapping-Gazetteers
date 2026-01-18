@@ -126,10 +126,10 @@ methodological model.
 
 If you use or adapt materials from this repository, please cite:
 
-> Yun, Misun. *Literary-Mapping-Gazetteers*.  
-> 2025, https://github.com/msyun207/Literary-Mapping-Gazetteers/.
+> Yun, Misun. *Literary-Mapping-Gazetteers*. 2025.
+> https://github.com/msyun207/Literary-Mapping-Gazetteers/.
 
-A scholarly publication, "Mapping the Narrative Space of *The Sign of the Four*," *JTEL* 29.3: 105-42, accompanies the *The Sign of the Four* case study.
+A scholarly publication, "Mapping the Narrative Space of *The Sign of the Four*," *JTEL* 29.3 (2025): 105-42, accompanies the *The Sign of the Four* case study.
 
 ---
 
