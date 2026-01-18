@@ -40,15 +40,13 @@ The gazetteer records **named places** mentioned in the text and annotates them
 according to several interpretive dimensions, including:
 
 - **Place name** as it appears in the text  
-- **Associated location** (e.g. London, India, colonial territories)  
-- **Narrative function**, such as:
+- **Working place name** (e.g. French --> France, Indian --> India)  
+- **Narrative function/Type of place**, such as:
   - site of a narrated event  
   - origin of characters, objects, or information  
-  - background or contextual reference  
+  - background or contextual reference
 - **Emotional valence (sentiment)** associated with the place, based on narrative
   context  
-- **Degree of narrative involvement**, distinguishing central plot locations from
-  peripheral references  
 
 These attributes are designed to support spatial visualization and comparison rather
 than cartographic precision alone.
@@ -81,7 +79,7 @@ Several principles guide the construction of this gazetteer:
 
 This folder contains the following files:
 
-- `gazetteer_chs_1_9.xls`  
+- `The Sign of the Four_Gazetteer_Chs.1-9.xls`  
   The primary gazetteer file, containing annotated place data for Chapters 1–9.
 
 Additional formats (e.g. CSV) may be added for visualization or reuse.
