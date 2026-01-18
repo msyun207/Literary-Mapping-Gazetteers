@@ -119,8 +119,10 @@ It is intended to function as:
 
 If you use or adapt this gazetteer, please cite:
 
-> Yun, Misun. “Mapping the Narrative Space of *The Sign of the Four*.”  
-> Literary Mapping Gazetteers project, Inha University, 2024–.
+> Yun, Misun. “Gazetteer for Chapters 1-9 of *The Sign of the Four*.”  
+*Literary-Mapping-Gazetteers*. 2025, https://github.com/msyun207/Literary-Mapping-Gazetteers/.
+
+A scholarly publication, "Mapping the Narrative Space of *The Sign of the Four*," *JTEL* 29.3: 105-42, accompanies this case study.
 
 ---
 
