@@ -1,4 +1,4 @@
-# Literary Mapping Gazetteers
+# Gazetteers for Literary Mapping
 
 This repository hosts a **growing collection of literary gazetteers** developed for
 digital mapping and spatial analysis of literary texts. It is designed as both a
